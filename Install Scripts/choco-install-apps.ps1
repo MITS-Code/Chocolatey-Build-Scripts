@@ -12,7 +12,7 @@ choco install keepass
 choco install 7zip
 choco install discord
 choco install vlc
-choco install picasa
+#choco install picasa
 choco install launchy
 #choco install kodi
 choco install freedownloadmanager
@@ -23,6 +23,7 @@ choco install spacesniffer
 choco install foxitreader
 choco install chocolateygui
 choco install mousewithoutborders
+choco install unifiedremote
 #choco install virtualbox.extensionpack
 
 Write-Output "Locking Chocolatey back down"
