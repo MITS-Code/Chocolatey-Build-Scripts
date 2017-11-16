@@ -10,11 +10,11 @@ ECHO "Installing Dev Apps"
 choco install visualstudio2017community
 choco install gitkraken
 choco install visualstudiocode
-choco install sysinternals
-choco install nugetpackageexplorer
-choco install doxygen.portable
+#choco install sysinternals
+#choco install nugetpackageexplorer
+#choco install doxygen.portable
 choco install nodejs
-choco install docker-kitematic
+#choco install docker-kitematic
 choco install jetbrainstoolbox
 
 # https://chocolatey.org/packages?sortOrder=package-download-count&page=12&prerelease=True&moderatorQueue=False
