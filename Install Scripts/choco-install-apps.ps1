@@ -24,6 +24,7 @@ choco install foxitreader
 choco install chocolateygui
 choco install mousewithoutborders
 choco install unifiedremote
+choco install megasync
 #choco install virtualbox.extensionpack
 
 Write-Output "Locking Chocolatey back down"
